@@ -35,9 +35,9 @@ The goal: sort data with as few moves as possible under strict constraints.
 
 ## GitHub Stats
 
-![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=dracula&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz&layout=compact&theme=dracula)
+
+![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=dracula&hide_title=true)
 
 ---
 
