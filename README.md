@@ -24,20 +24,20 @@ The goal: sort data with as few moves as possible under strict constraints.
 | [Born2beroot](https://github.com/Justyuanz/born2beroot) | ![b2br score](https://img.shields.io/badge/125%2F100-green) | Securing a Linux VM using user/group policies, firewalls, and system configuration. |
 ---
 
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz&layout=compact&theme=tokyonight)
+
+![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
 ## Tools & Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz&layout=compact&theme=dracula)
-
-![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=dracula&hide_title=true)
 
 ---
 
