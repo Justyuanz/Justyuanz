@@ -27,8 +27,8 @@ The goal: sort data with as few moves as possible under strict constraints.
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz&layout=compact&theme=tokyonight)
-
-![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=tokyonight&hide_title=true)
+<!--![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=tokyonight&hide_title=true)
+-->
 
 ---
 
@@ -55,7 +55,7 @@ When I'm not coding, you’ll probably find me:
 
 ---
 
- See you around!😎
+ See you around!☀️
 
 <!--
 **Justyuanz/Justyuanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
