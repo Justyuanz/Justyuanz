@@ -14,15 +14,14 @@ The goal: sort data with as few moves as possible under strict constraints.
 
 ---
 
-## Completed Projects & Scores
+##  Completed Projects & Scores
 
-| Project         | Score       |
-|----------------|-------------|
-| Libft          | ![libft score](https://img.shields.io/badge/125%2F100-green) |
-| Get Next Line  | ![gnl score](https://img.shields.io/badge/125%2F100-green) |
-| ft_printf      | ![printf score](https://img.shields.io/badge/100%2F100-green) |
-| Born2beroot    | ![b2br score](https://img.shields.io/badge/125%2F100-green) 
-
+| Project | Score | Description |
+|---------|-------|-------------|
+| [Libft](https://github.com/Justyuanz/libft) | ![libft score](https://img.shields.io/badge/125%2F100-green) | Reimplementation of basic C library functions, including bonus linked list tools. |
+| [get_next_line](https://github.com/Justyuanz/get_next_line) | ![gnl score](https://img.shields.io/badge/125%2F100-green) | Reads one line at a time from a file descriptor with efficient buffer management. |
+| [ft_printf](https://github.com/Justyuanz/ft_printf) | ![printf score](https://img.shields.io/badge/100%2F100-green) | Custom version of `printf` that handles multiple format specifiers. |
+| [Born2beroot](https://github.com/Justyuanz/born2beroot) | ![b2br score](https://img.shields.io/badge/125%2F100-green) | Securing a Linux VM using user/group policies, firewalls, and system configuration. |
 ---
 
 ## Tools & Technologies
