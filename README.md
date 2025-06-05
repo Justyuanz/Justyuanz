@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Yuan
+# 👋 Heyaa, I'm Yuan
 
 I'm currently a student at **Hive Helsinki**, diving deep into low-level programming with C.  
 
