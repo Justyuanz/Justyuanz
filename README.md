@@ -1,73 +1,74 @@
+# Hi, I'm Yuan 👋
 
+I'm a software engineering student at **Hive Helsinki**, focused on building strong foundations in **C, C++, systems programming, and backend development**.
 
-# 👋 Heya, I'm Yuan
+I like projects where the code is close to how computers actually work: memory, files, processes, parsing, threads, algorithms, and clear error handling.
 
-I'm currently a student at **Hive Helsinki**, diving deep into low-level programming with C.  
+<div align="left">
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square\&logo=gnu\&logoColor=white)
+
+</div>
 
 ---
 
-## Currently Working On
+## What I Build
 
-[`push_swap`](https://github.com/Justyuanz/push_swap) —  
-Developing a sorting algorithm using only stack operations and a limited instruction set.  
-The goal: sort data with as few moves as possible under strict constraints.
+* **Low-level C projects** with manual memory management and strict constraints
+* **Unix-style tools** involving files, pipes, processes, and parsing
+* **Multithreaded programs** using `pthreads`, mutexes, and timing logic
+* **Graphics/math projects** involving vectors, rays, intersections, and rendering
+* **Small Python tools** for practical automation and AI-assisted workflows
 
 ---
 
-##  Completed Projects & Scores
+## Selected Projects
 
-| Project | Score | Description |
-|---------|-------|-------------|
-| [`Libft`](https://github.com/Justyuanz/libft) | ![libft score](https://img.shields.io/badge/125%2F100-green) | Reimplementation of basic C library functions, including bonus linked list tools. |
-| [`get_next_line`](https://github.com/Justyuanz/get_next_line) | ![gnl score](https://img.shields.io/badge/125%2F100-green) | Reads one line at a time from a file descriptor with efficient buffer management. |
-| [`ft_printf`](https://github.com/Justyuanz/ft_printf) | ![printf score](https://img.shields.io/badge/100%2F100-green) | Custom version of `printf` that handles multiple format specifiers. |
-| `Born2beroot` | ![b2br score](https://img.shields.io/badge/125%2F100-green) | Securing a Linux VM using user/group policies, firewalls, and system configuration. |
+| Project                                                       | Focus                          | What it shows                                                                            |
+| ------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------- |
+| [minishell](https://github.com/Justyuanz/minishell)           | Unix shell, parsing, processes | Tokenization, environment expansion, pipes, redirections, heredocs, process execution    |
+| [Philos](https://github.com/Justyuanz/Philos)                 | Multithreading                 | `pthreads`, mutexes, precise timing, deadlock prevention, shared-state synchronization   |
+| [mini-raytracer](https://github.com/Justyuanz/mini-raytracer) | Graphics, math, rendering      | Vectors, rays, intersections, lighting, shadows, camera logic, scene parsing             |
+| [push_swap](https://github.com/Justyuanz/push_swap)           | Algorithms                     | Stack sorting, radix sort, operation optimization under strict move-count limits         |
+| [ai-job-agent](https://github.com/Justyuanz/ai-job-agent)     | Python, AI tooling             | Parsing job posts, extracting skills, comparing requirements against a candidate profile |
+| [libft](https://github.com/Justyuanz/Libft)                   | C fundamentals                 | Reimplementation of core C library functions and linked list utilities                   |
+
 ---
 
-## GitHub Stats
+## Technical Strengths
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz&layout=compact&theme=tokyonight)
-<!--![Yuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justyuanz&show_icons=true&theme=tokyonight&hide_title=true)
--->
+```txt
+C / C++ fundamentals       Memory management        Parsing
+Unix processes             File descriptors         Pipes & redirections
+Multithreading             Mutexes                  Algorithms
+Error handling             Git                      Linux
+```
 
 ---
 
 ## Tools & Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<div align="left">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz\&layout=compact\&hide_border=true)
+
+</div>
 
 ---
 
 ## Outside Code
 
-When I'm not coding, you’ll probably find me:
-- 🐾 Just chilling with my 🐶🐱
-- 🚴 Cycling through Helsinki  
-- 🛹 Skateboarding with friends  
-- 🎸 Jamming to music  
-- 🧶 Making handcrafted things like candles and macramé  
-
-
-
+When I'm not coding, I'm probably skateboarding, playing guitar, or learning something slowly but deeply.
 
 ---
 
- See you around!☀️
+## Contact
 
-<!--
-**Justyuanz/Justyuanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* GitHub: [@Justyuanz](https://github.com/Justyuanz)
+* LinkedIn: [Zhang Jingyuan](www.linkedin.com/in/jingyuan-zhang-0b45b3151/)
+* Email: yuanjuan.tn@gmail.com
