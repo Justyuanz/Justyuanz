@@ -40,17 +40,6 @@ I like projects where the code is close to how computers actually work: memory, 
 
 ---
 
-## Technical Strengths
-
-```txt
-C / C++ fundamentals       Memory management        Parsing
-Unix processes             File descriptors         Pipes & redirections
-Multithreading             Mutexes                  Algorithms
-Error handling             Git                      Linux
-```
-
----
-
 ## Tools & Technologies
 
 <div align="left">
