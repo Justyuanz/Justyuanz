@@ -22,11 +22,12 @@ Currently, I am preparing for junior developer roles.
 
 ## Selected Projects
 
-| Project | Tech | Recruiter takeaway |
+| Project | Tech | Takeaway |
 |---|---|---|
 | [AI Job Application Agent](https://github.com/Justyuanz/ai-job-agent) | Python, OpenAI API, Gmail API, SentenceTransformers | Personal AI workflow that reads job alerts, selects promising leads, compares job descriptions with my CV, and generates application feedback |
 | [Unix Shell Implementation](https://github.com/Justyuanz/minishell) | C, Unix, parsing, processes | Built a small shell with tokenization, parsing, pipes, redirections, heredocs, builtins, environment handling, and signals |
 | [Mini Raytracer](https://github.com/Justyuanz/mini-raytracer) | C, ray tracing, 3D graphics, math | Built a basic raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
+| [Concurrency Simulation](https://github.com/Justyuanz/Philos) | C, pthreads, mutexes, synchronization | Implemented the dining philosophers problem with thread management, mutex protection, timing control, death detection, and race-condition prevention |
 | [2D Game with Map Validation](https://github.com/Justyuanz/so_long) | C, MLX42, graphics | Built a small 2D game with map parsing, path validation, rendering, collectibles, movement, and event handling |
 | [Stack Sorting Algorithm](https://github.com/Justyuanz/push_swap) | C, algorithms | Implemented a sorting algorithm using two stacks and a limited set of operations |
 | [Custom C Utility Library](https://github.com/Justyuanz/libft) | C | Reimplemented selected C standard library functions and built reusable utility functions |
