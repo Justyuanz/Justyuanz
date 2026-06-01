@@ -1,63 +1,53 @@
 # Hi, I'm Yuan 👋
 
-I'm a software engineering student at **Hive Helsinki**, focused on building strong foundations in **C, C++, systems programming, and backend development**.
+I'm a software engineering student at **Hive Helsinki**, building a strong foundation in **C, C++, Unix systems, graphics programming, backend fundamentals, Python automation, and agentic workflows**.
 
-I like projects where the code is close to how computers actually work: memory, files, processes, parsing, threads, algorithms, and clear error handling.
+I enjoy projects that involve practical problem solving: parsing, memory management, processes, graphics, APIs, automation, and tools that solve real problems.
 
-<div align="left">
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square\&logo=gnu\&logoColor=white)
-
-</div>
+Currently, I am preparing for junior developer roles.
 
 ---
 
-## What I Build
+## Main Focus
 
-* **Low-level C projects** with manual memory management and strict constraints
-* **Unix-style tools** involving files, pipes, processes, and parsing
-* **Multithreaded programs** using `pthreads`, mutexes, and timing logic
-* **Graphics/math projects** involving vectors, rays, intersections, and rendering
-* **Small Python tools** for practical automation and AI-assisted workflows
+- C and C++ fundamentals
+- Unix systems programming
+- Graphics programming and ray tracing basics
+- Python automation
+- API integration
+- AI-assisted workflows
+- Debugging, Git, and project documentation
 
 ---
 
 ## Selected Projects
 
-| Project                                                       | Focus                          | What it shows                                                                            |
-| ------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------- |
-| [minishell](https://github.com/Justyuanz/minishell)           | Unix shell, parsing, processes | Tokenization, environment expansion, pipes, redirections, heredocs, process execution    |
-| [Philos](https://github.com/Justyuanz/Philos)                 | Multithreading                 | `pthreads`, mutexes, precise timing, deadlock prevention, shared-state synchronization   |
-| [mini-raytracer](https://github.com/Justyuanz/mini-raytracer) | Graphics, math, rendering      | Vectors, rays, intersections, lighting, shadows, camera logic, scene parsing             |
-| [push_swap](https://github.com/Justyuanz/push_swap)           | Algorithms                     | Stack sorting, radix sort, operation optimization under strict move-count limits         |
-| [ai-job-agent](https://github.com/Justyuanz/ai-job-agent)     | Python, AI tooling             | Parsing job posts, extracting skills, comparing requirements against a candidate profile |
-| [libft](https://github.com/Justyuanz/Libft)                   | C fundamentals                 | Reimplementation of core C library functions and linked list utilities                   |
+| Project | Tech | Recruiter takeaway |
+|---|---|---|
+| [AI Job Application Agent](https://github.com/Justyuanz/ai-job-agent) | Python, OpenAI API, Gmail API, SentenceTransformers | Personal AI workflow that reads job alerts, selects promising leads, compares job descriptions with my CV, and generates application feedback |
+| [Unix Shell Implementation](https://github.com/Justyuanz/minishell) | C, Unix, parsing, processes | Built a small shell with tokenization, parsing, pipes, redirections, heredocs, builtins, environment handling, and signals |
+| [Mini Raytracer](https://github.com/Justyuanz/mini-raytracer) | C, ray tracing, 3D graphics, math | Built a basic raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
+| [2D Game with Map Validation](https://github.com/Justyuanz/so_long) | C, MLX42, graphics | Built a small 2D game with map parsing, path validation, rendering, collectibles, movement, and event handling |
+| [Stack Sorting Algorithm](https://github.com/Justyuanz/push_swap) | C, algorithms | Implemented a sorting algorithm using two stacks and a limited set of operations |
+| [Custom C Utility Library](https://github.com/Justyuanz/libft) | C | Reimplemented selected C standard library functions and built reusable utility functions |
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
-<div align="left">
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyuanz\&layout=compact\&hide_border=true)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-</div>
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
-## Outside Code
-
-When I'm not coding, I'm probably skateboarding, playing guitar, or learning something slowly but deeply.
-
----
-
-## Contact
-
-* GitHub: [@Justyuanz](https://github.com/Justyuanz)
-* LinkedIn: [Zhang Jingyuan](www.linkedin.com/in/jingyuan-zhang-0b45b3151/)
-* Email: yuanjuan.tn@gmail.com
