@@ -12,8 +12,12 @@ I enjoy figuring out how things work, solving problems, and turning messy ideas 
 
 | Project | Tech | Takeaway |
 |---|---|---|
-| [Yuan's Planner](https://github.com/Justyuanz/Yuans-planner) | Web development, UI/UX | Personal planning application focused on organizing daily life and routines. Currently being refactored to improve structure, maintainability, and user experience |
+## Selected Projects
+
+| Project | Tech | Takeaway |
+|---|---|---|
 | [Internet Relay Chat Server](https://github.com/Justyuanz/Internet-Relay-Chat-Server) | C++, TCP/IP, sockets | Built a multi-client IRC server with socket networking, channels, operators, command parsing, user modes, and IRC protocol handling |
+| [Yuan's Planner](https://github.com/Justyuanz/Yuans-planner) | Web development, UI/UX | Personal planning application focused on organizing daily life and routines. Currently being refactored to improve structure, maintainability, and user experience |
 | [Custom Unix Shell](https://github.com/Justyuanz/minishell) | C, Unix, parsing, processes | Built a shell with tokenization, parsing, pipes, redirections, heredocs, builtins, environment handling, process management, and signals |
 | [Mini Raytracer](https://github.com/Justyuanz/mini-raytracer) | C, ray tracing, 3D graphics, math | Built a raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
 | [Concurrency Simulation](https://github.com/Justyuanz/Philos) | C, pthreads, mutexes, synchronization | Implemented the dining philosophers problem with thread management, mutex protection, timing control, death detection, and race-condition prevention |
