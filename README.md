@@ -1,22 +1,10 @@
 # Hi, I'm Yuan 👋
 
-I'm a software engineering student at **Hive Helsinki**, building a strong foundation in **C, C++, Unix systems, graphics programming, backend fundamentals, Python automation, and agentic workflows**.
+I'm a software engineering student at **Hive Helsinki**, building a strong foundation in **C, C++, Unix systems, networking, graphics programming, backend fundamentals, Docker, Python automation, and AI-assisted workflows**.
 
-I enjoy projects that involve practical problem solving: parsing, memory management, processes, graphics, APIs, automation, and tools that solve real problems.
+I enjoy projects that involve practical problem solving: parsing, processes, networking, graphics, APIs, automation, infrastructure, and tools that solve real problems.
 
 Currently, I am preparing for junior developer roles.
-
----
-
-## Main Focus
-
-- C and C++ fundamentals
-- Unix systems programming
-- Graphics programming and ray tracing basics
-- Python automation
-- API integration
-- AI-assisted workflows
-- Debugging, Git, and project documentation
 
 ---
 
@@ -24,11 +12,43 @@ Currently, I am preparing for junior developer roles.
 
 | Project | Tech | Takeaway |
 |---|---|---|
-| [AI Job Application Agent](https://github.com/Justyuanz/ai-job-agent) | Python, OpenAI API, Gmail API, SentenceTransformers | Personal AI workflow that reads job alerts, selects promising leads, compares job descriptions with my CV, and generates application feedback |
-| [Unix Shell Implementation](https://github.com/Justyuanz/minishell) | C, Unix, parsing, processes | Built a small shell with tokenization, parsing, pipes, redirections, heredocs, builtins, environment handling, and signals |
-| [Mini Raytracer](https://github.com/Justyuanz/mini-raytracer) | C, ray tracing, 3D graphics, math | Built a basic raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
+| [Yuan's Planner](https://github.com/Justyuanz/Yuans-planner) | Web development, UI/UX | Personal planning application focused on organizing daily life and routines. Currently being refactored to improve structure, maintainability, and user experience |
+| [Internet Relay Chat Server](https://github.com/Justyuanz/Internet-Relay-Chat-Server) | C++, TCP/IP, sockets | Built a multi-client IRC server with socket networking, channels, operators, command parsing, user modes, and IRC protocol handling |
+| [Custom Unix Shell](https://github.com/Justyuanz/minishell) | C, Unix, parsing, processes | Built a shell with tokenization, parsing, pipes, redirections, heredocs, builtins, environment handling, process management, and signals |
+| [Mini Raytracer](https://github.com/Justyuanz/mini-raytracer) | C, ray tracing, 3D graphics, math | Built a raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
 | [Concurrency Simulation](https://github.com/Justyuanz/Philos) | C, pthreads, mutexes, synchronization | Implemented the dining philosophers problem with thread management, mutex protection, timing control, death detection, and race-condition prevention |
-| [2D Game with Map Validation](https://github.com/Justyuanz/so_long) | C, MLX42, graphics | Built a small 2D game with map parsing, path validation, rendering, collectibles, movement, and event handling |
+
+---
+
+## Currently Working On
+
+### 🐳 [Docker Web Infrastructure](https://github.com/Justyuanz/Docker-Web-Infra)
+
+**Docker · Docker Compose · NGINX · WordPress · PHP-FPM · MariaDB**
+
+Building a multi-container web infrastructure with separate NGINX, WordPress/PHP-FPM, and MariaDB services, persistent volumes, Docker networking, environment configuration, and TLS.
+
+### 🤖 [AI Job Agent](https://github.com/Justyuanz/Ai-Job-Agent)
+
+**Python · OpenAI API · Gmail API · SentenceTransformers**
+
+An AI-assisted workflow that reads job alerts, extracts requirements, compares job descriptions with a candidate profile, and helps evaluate promising applications.
+
+Development is currently **paused temporarily while I focus on other projects**, but I plan to continue expanding the workflow.
+
+---
+
+## Main Focus
+
+- C and C++ fundamentals
+- Unix systems programming
+- TCP/IP networking and socket programming
+- Docker and containerized infrastructure
+- Graphics programming and ray tracing basics
+- Python automation
+- API integration
+- AI-assisted workflows
+- Debugging, Git, and project documentation
 
 ---
 
@@ -42,6 +62,7 @@ Currently, I am preparing for junior developer roles.
 
 ### Tools & Technologies
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
