@@ -1,10 +1,10 @@
 # Hi, I'm Yuan 👋
 
-I'm a software engineering student at **Hive Helsinki**, building a strong foundation in **C, C++, Unix systems, networking, graphics programming, backend fundamentals, Docker, Python automation, and AI-assisted workflows**.
+I'm a software engineering student at **Hive Helsinki**.
 
-I enjoy projects that involve practical problem solving: parsing, processes, networking, graphics, APIs, automation, infrastructure, and tools that solve real problems.
+I mainly work with C and C++, and lately I've been exploring Python, Docker, web development, and AI tools.
 
-Currently, I am preparing for junior developer roles.
+I enjoy figuring out how things work, solving problems, and turning messy ideas into something that actually works.
 
 ---
 
