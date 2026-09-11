@@ -10,83 +10,64 @@ I enjoy figuring out how things work, solving problems, and turning messy ideas 
 
 ## Projects
 
-### 🌐 Systems & Networking
+### Systems & Networking
 
-#### [Internet Relay Chat Server](https://github.com/Justyuanz/Internet-Relay-Chat-Server)
-**C++ · TCP/IP · Sockets**
+Projects where I learned more about Unix systems, processes, networking, and how programs communicate.
 
-Multi-client IRC server with channels, operators, modes, command parsing, and protocol handling.
+| Project | Tech / Focus | What I Built |
+|---|---|---|
+| [Internet Relay Chat Server](https://github.com/Justyuanz/Internet-Relay-Chat-Server) | C++, TCP/IP, sockets | Multi-client IRC server with channels, operators, modes, command parsing, and protocol handling |
+| [Custom Unix Shell](https://github.com/Justyuanz/Custom-Unix-Shell) | C, Unix, processes | Shell with parsing, pipes, redirections, heredocs, builtins, environment handling, processes, and signals |
 
-#### [Custom Unix Shell](https://github.com/Justyuanz/Custom-Unix-Shell)
-**C · Unix · Processes**
+### Infrastructure
 
-Shell implementation with parsing, pipes, redirections, heredocs, builtins, environment handling, processes, and signals.
+Projects where I'm learning how services are configured, connected, and run together.
 
----
+| Project | Tech / Focus | What I'm Building | Status |
+|---|---|---|---|
+| [Docker Web Infrastructure](https://github.com/Justyuanz/Docker-Web-Infra) | Docker, Docker Compose, NGINX, PHP-FPM, MariaDB | Multi-container web infrastructure with separate services, networking, persistent volumes, environment configuration, and TLS | Currently working on |
 
-### 🐳 Infrastructure
+### Web & Product
 
-#### [Docker Web Infrastructure](https://github.com/Justyuanz/Docker-Web-Infra)
-**Docker · Docker Compose · NGINX · PHP-FPM · MariaDB**
+Projects focused on building something useful and improving how it is structured and used.
 
-Multi-container web infrastructure with service isolation, Docker networking, persistent volumes, environment configuration, and TLS.
+| Project | Focus | What I Built |
+|---|---|---|
+| [Yuan's Planner](https://github.com/Justyuanz/Yuans-planner) | Web development, UI/UX | Personal planning application for organizing daily life and routines, with ongoing work on structure, maintainability, and usability |
 
-**Currently working on**
+### Python & AI
 
----
+Projects where I'm exploring Python, APIs, automation, AI models, and agent workflows.
 
-### 🖥️ Web & Product
+| Project | Tech / Focus | What I Built | Status |
+|---|---|---|---|
+| [AI Job Agent](https://github.com/Justyuanz/Ai-Job-Agent) | Python, OpenAI API, Gmail API, SentenceTransformers | Workflow that reads job alerts, extracts requirements, compares opportunities with a candidate profile, and helps evaluate applications | Temporarily paused, more planned. |
 
-#### [Yuan's Planner](https://github.com/Justyuanz/Yuans-planner)
-**Web Development · UI/UX**
+### Graphics
 
-A personal planning application for organizing daily life, routines, and tasks. Currently being refactored with a focus on cleaner structure and usability.
+Projects I used to learn graphics programming, rendering, geometry, and visual output.
 
----
+| Project | Tech / Focus | What I Built |
+|---|---|---|
+| [Mini Raytracer](https://github.com/Justyuanz/Mini-Raytracer) | C, ray tracing, math | Raytracer with scene parsing, camera rays, intersections, lighting, shadows, and rendering |
+| [So Long](https://github.com/Justyuanz/So_long) | C, MLX42, 2D graphics | Small 2D game with map parsing, path validation, rendering, movement, collectibles, and event handling |
 
-### 🤖 Python & AI
+### C & C++ Foundations
 
-#### [AI Job Agent](https://github.com/Justyuanz/Ai-Job-Agent)
-**Python · OpenAI API · Gmail API · SentenceTransformers**
+Smaller projects I used to build a stronger understanding of low-level programming, memory, algorithms, file descriptors, concurrency, and C/C++ itself.
 
-AI-assisted workflow for reading job alerts, extracting requirements, and comparing job opportunities with a candidate profile.
-
-**Temporarily paused while I focus on other projects**
-
----
-
-### 🎨 Graphics & Concurrency
-
-| Project | Focus |
+| Project | What I Learned |
 |---|---|
-| [Mini Raytracer](https://github.com/Justyuanz/Mini-Raytracer) | Ray tracing, intersections, lighting, shadows, rendering |
-| [Philosophers](https://github.com/Justyuanz/Philos) | Threads, mutexes, synchronization, race conditions |
+| [C++ Modules](https://github.com/Justyuanz/cpp) | C++ fundamentals, object-oriented programming, STL, templates, and algorithms |
+| [Philosophers](https://github.com/Justyuanz/Philos) | Threads, mutexes, synchronization, timing, and race conditions |
+| [C Vector Library](https://github.com/Justyuanz/c_vec) | Dynamic arrays, memory management, reusable C data structures |
+| [Push Swap](https://github.com/Justyuanz/push_swap) | Sorting algorithms and constrained problem solving |
+| [Libft](https://github.com/Justyuanz/libft) | Memory, strings, linked lists, and common C library functionality |
+| [ft_printf](https://github.com/Justyuanz/ft_printf) | Variadic functions, formatting, and output handling |
+| [get_next_line](https://github.com/Justyuanz/get_next_line) | File descriptors, buffering, static state, and incremental input |
+| [Pipex](https://github.com/Justyuanz/pipex) | pipes, file descriptors | Recreated shell-style pipelines using processes, pipes, file descriptors, and command execution |
+| [NetPractice](https://github.com/Justyuanz/netpractice) | TCP/IP, subnetting, routing | Exercises in IP addressing, subnetting, routing, and network configuration |
 
----
-
-### 🧩 Foundations
-
-Smaller projects I've used to learn lower-level programming concepts:
-
-- [Pipex](https://github.com/Justyuanz/pipex) — pipes, processes, file descriptors
-- [NetPractice](https://github.com/Justyuanz/netpractice) — TCP/IP, subnetting, routing
-- [Push Swap](https://github.com/Justyuanz/push_swap) — sorting and algorithms
-- [Libft](https://github.com/Justyuanz/libft) — C standard library fundamentals
-- [ft_printf](https://github.com/Justyuanz/ft_printf) — variadic functions and formatted output
-- [get_next_line](https://github.com/Justyuanz/get_next_line) — buffered input and file descriptors
-- [So Long](https://github.com/Justyuanz/So_long) — 2D graphics and event handling
-
-## Main Focus
-
-- C and C++ fundamentals
-- Unix systems programming
-- TCP/IP networking and socket programming
-- Docker and containerized infrastructure
-- Graphics programming and ray tracing basics
-- Python automation
-- API integration
-- AI-assisted workflows
-- Debugging, Git, and project documentation
 
 ---
 
